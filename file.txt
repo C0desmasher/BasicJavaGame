@@ -1,8 +1,0 @@
-<<<<<<< Updated upstream
-hello this is sanjeev 
-studying IT 
-want to become developer
-=======
-hello this is sanjeev
-Rahul
->>>>>>> Stashed changes
